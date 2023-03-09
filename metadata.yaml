@@ -1,0 +1,27 @@
+_repo: Madam-Constantia-b-The-romance-of-a-prisoner-of-war-in-the-revolution-South-Carolina_70174
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Carter, Jefferson
+    gutenberg_agent_id: '55640'
+    url: http://www.gutenberg.org/2009/agents/55640
+description: ''
+gutenberg_issued: '2023-03-01'
+identifiers:
+  gutenberg: '70174'
+language: en
+pgterms:marc904: https://archive.org/details/madamconstantiar00cartiala
+pgterms:marc905: 20210612072551carter
+pgterms:marc906: '1919'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bLongsmans, Green and Co., $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Madam Constantia : $b The romance of a prisoner of war in the revolution (South
+  Carolina)'
+url: http://www.gutenberg.org/ebooks/70174
